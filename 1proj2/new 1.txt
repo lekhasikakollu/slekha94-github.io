@@ -1,0 +1,6 @@
+Concepts to include :
+Page 1 : (landing page)
+.......responsive design
+.......z-index
+.......float
+.......use webfonts like google fonts
